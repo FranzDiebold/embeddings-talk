@@ -1,5 +1,7 @@
 # Embeddings Talk "The Wonderful World of Embeddings"
 
+[![Slides preview](images/slides_preview.jpg)](The_Wonderful_World_of_Embeddings_Franz_Diebold.pdf)
+
 Duration: ~ 1 hour
 
 ## Talk held
